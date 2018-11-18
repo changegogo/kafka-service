@@ -1,0 +1,17 @@
+{
+  "name": "kafka-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "is-number": "^7.0.0",
+    "kafka-node": "^3.0.1",
+    "sleep-promise": "^8.0.1"
+  }
+}
